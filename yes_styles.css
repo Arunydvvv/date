@@ -18,31 +18,6 @@ body {
     color: #d32f2f;
   }
   
-  .buttons {
-    margin-top: 20px;
-  }
-  
-  .yes-button {
-    font-size: 1.5em;
-    padding: 10px 20px;
-    margin-right: 10px;
-    background-color: #4caf50;
-    color: white;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-  }
-  
-  .no-button {
-    font-size: 1.5em;
-    padding: 10px 20px;
-    background-color: #f44336;
-    color: white;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-  }
-  
   .gif_container img {
     max-width: 100%;
     height: auto;
