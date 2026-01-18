@@ -7,20 +7,29 @@ body {
     background-color: #f9e3e3;
     font-family: 'Arial', sans-serif;
     flex-direction: column;
-  }
-  
-  .container {
+}
+
+.container {
     text-align: center;
-  }
-  
-  h1 {
+}
+
+h1 {
     font-size: 2.5em;
     color: #111827;
-  }
-  
-  .gif_container img {
+    margin-bottom: 5px; //
+}
+
+.subheader_text {
+    font-size: 1.3em;       
+    color: #555555;         
+    margin-top: 0;          
+    margin-bottom: 20px;    
+    font-weight: normal;
+}
+
+.gif_container img {
     max-width: 100%;
     height: auto;
     border-radius: 10px;
-    margin-top: 20px;
-  }
+    margin-top: 10px;       
+}
